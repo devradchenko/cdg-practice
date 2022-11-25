@@ -1,2 +1,2 @@
-puts 'hello world!'
-print ', this is 1st practice file :)'
+print 'hello world!'
+puts ', this is 1st practice file :)'
