@@ -9,6 +9,7 @@ def foobar(num1, num2)
     elsif num2 == 20
         puts num1
     else
+        print "Сумма чисел: "
         puts num1 + num2
     end
 end
